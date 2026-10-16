@@ -1,4 +1,4 @@
-# How many jobs the same type
+# How many jobs are the same type
 
 from this import d
 
