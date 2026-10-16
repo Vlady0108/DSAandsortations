@@ -1,9 +1,3 @@
-# When needed a stable sorting algorithms
-# most appropriate is merge sort
-# In a large production system, it is more like
-# usable the quick sort
-
-
 # Insertion Sort 1
 # compare each element with the previous ones
 # and insert it in the correct position
